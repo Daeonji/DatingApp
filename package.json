@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@kolkov/ngx-gallery": "^2.0.1",
     "ngx-gallery-9": "^1.0.6",
     "ngx-toastr": "^15.0.0",
     "toastr": "^2.1.4"
